@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safety Belts Details</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Safety Belts Details</h1>
+        
+        <button id="fetchSafetyBeltDataBtn">Click to Get Data</button>
+        
+        <header class="header">
+            <!---- div class="header-item">Party Code: <input type="text" id="partyCode" /></div>-->
+            <div class="header-item">Agency: 
+                <select id="beltAgency">
+                    <option value="XYZ Corp">XYZ Corp</option>
+                    <option value="ABC Ltd">ABC Ltd</option>
+                    <option value="123 Inc">123 Inc</option>
+                </select>
+            </div>
+        </header>
+        
+        <div class="content">
+            <div id="safetyBeltData" class="data-section">
+                <h2>Safety Belts Details</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Batch No.</th>
+                            <th>Serial No.</th>
+                            <th>BIS License No.</th>
+                            <th>Make</th>
+                            <th>Mfg. Date</th>
+                            <th>Shell Life</th>
+                            <th>Competent Authority Certificate Validity</th>
+                            <th>Remarks</th>
+                            <th>Expiry Date</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Safety Belt data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="actions">
+        <button id="addBtn">Add</button>
+        <button id="modifyBtn">Modify</button>
+        <button id="clearBtn">Clear</button>
+        <button id="submitSaveBtn">Submit/Save</button>
+        <button id="exitBtn">Exit</button>
+    </div>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,246 @@
+{
+  "SQL Results": [
+    {
+      "APPL_NO": "WA2024060047",
+      "WORKER_NAME": "CHALUMURI ANIL",
+      "WORKER_DESIG": "Skilled Worker",
+      "WORKER_SKILL": "OTH",
+      "SPASS_NO": "WS2024060128",
+      "SPASS_EXPIRY_DT": "11-06-2025",
+      "GPASS_NO": "WG2024060450",
+      "GPASS_EXPIRY_DT": "17-07-2024",
+      "JOB_CD": "4410006487"
+    },
+    {
+      "APPL_NO": "WA2024060074",
+      "WORKER_NAME": "T RAMANA",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024040284",
+      "SPASS_EXPIRY_DT": "07-04-2025",
+      "GPASS_NO": "WG2024060475",
+      "GPASS_EXPIRY_DT": "18-09-2024",
+      "JOB_CD": "4410006660"
+    },
+    {
+      "APPL_NO": "WA2024060074",
+      "WORKER_NAME": "V RAMU",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024040285",
+      "SPASS_EXPIRY_DT": "07-04-2025",
+      "GPASS_NO": "WG2024060476",
+      "GPASS_EXPIRY_DT": "18-09-2024",
+      "JOB_CD": "4410006660"
+    },
+    {
+      "APPL_NO": "WA2024060074",
+      "WORKER_NAME": "V.LAXMI",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024040286",
+      "SPASS_EXPIRY_DT": "07-04-2025",
+      "GPASS_NO": "WG2024060477",
+      "GPASS_EXPIRY_DT": "18-09-2024",
+      "JOB_CD": "4410006660"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "D KANAKARAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024010402",
+      "SPASS_EXPIRY_DT": "10-01-2025",
+      "GPASS_NO": "WG2024060492",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "K VENKATESH",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024010404",
+      "SPASS_EXPIRY_DT": "10-01-2025",
+      "GPASS_NO": "WG2024060493",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "M GOVINDA",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024010406",
+      "SPASS_EXPIRY_DT": "10-01-2025",
+      "GPASS_NO": "WG2024060494",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P KONDAYYA",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024010407",
+      "SPASS_EXPIRY_DT": "10-01-2025",
+      "GPASS_NO": "WG2024060495",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "YERIPILLI RAJU",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024010409",
+      "SPASS_EXPIRY_DT": "10-01-2025",
+      "GPASS_NO": "WG2024060496",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P APPALA REDDY",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041524",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060497",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P JAGADEESWARA RAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041525",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060498",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P N RAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041526",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060499",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P NAGA RAJU",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041527",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060500",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P RAMANA",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041528",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060501",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P SATYANARAYANA",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041529",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060502",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P TATA RAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041530",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060503",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "P VENKAT RAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041531",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060504",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "R VENKATARAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041532",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060505",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "U APPARAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041534",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060507",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "V APPALANAIDU",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041535",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060508",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "Y PARVATHAMMA",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024041537",
+      "SPASS_EXPIRY_DT": "29-04-2025",
+      "GPASS_NO": "WG2024060509",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    },
+    {
+      "APPL_NO": "WA2024060081",
+      "WORKER_NAME": "A CHINNA RAO",
+      "WORKER_DESIG": "USK",
+      "WORKER_SKILL": "USK",
+      "SPASS_NO": "RS2024050088",
+      "SPASS_EXPIRY_DT": "01-05-2025",
+      "GPASS_NO": "WG2024060510",
+      "GPASS_EXPIRY_DT": "20-09-2024",
+      "JOB_CD": "4410006762"
+    }
+  ]
+}

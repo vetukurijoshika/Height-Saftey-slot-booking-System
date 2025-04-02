@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Height Safety Slot Booking</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Height Safety Slot Booking</h1>
+        
+        <button id="fetchDataBtn">Click to Get Data</button>
+        
+        <header class="header">
+            <div class="header-item">Job Code: <input type="text" id="jobCode" /></div>
+            <div class="header-item">Csno: <input type="text" id="csno" /></div>
+            <div class="header-item">Work Area: <input type="text" id="workArea" /></div>
+            <div class="header-item">Job End Date: <input type="date" id="jobEndDate" /></div>
+            <div class="header-item">Agency: 
+                <select id="agency">
+                    <option value="XYZ Corp">XYZ Corp</option>
+                    <option value="ABC Ltd">ABC Ltd</option>
+                    <option value="123 Inc">123 Inc</option>
+                </select>
+            </div>
+        </header>
+        
+        <div class="content">
+            <div id="applicationData" class="data-section">
+                <h2>Application for Height Safety</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Aadhar ID</th>
+                            <th>Worker Name</th>
+                            <th>Skill</th>
+                            <th>Gender</th>
+                            <th>Prev H Expiry Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Application data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+            <div id="bookingData" class="data-section">
+                <h2>Available Slots</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Slot Time</th>
+                            <th>Status</th>
+                            <th>Select Slot</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Booking data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="actions">
+            <button id="submitSaveBtn">Submit/Save</button>
+            <button id="exitBtn">Exit</button>
+        </div>
+    </div>
+
+    <div id="agencyDialog" class="dialog">
+        <div class="dialog-content">
+            <span class="close-btn" id="closeDialog">&times;</span>
+            <h3>Select an Agency</h3>
+            <select id="agencySelect">
+                <option value="XYZ Corp">XYZ Corp</option>
+                <option value="ABC Ltd">ABC Ltd</option>
+                <option value="123 Inc">123 Inc</option>
+            </select>
+            <button id="selectAgencyBtn">Select Agency</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
